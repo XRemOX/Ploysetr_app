@@ -4,7 +4,7 @@
 
 ## Build Setup
 
-#Install npm and theh run npm install vue, to get the vue.js
+#Install npm and theh run npm install vue and npm install vue-cli, to get the vue.js
 
 #Then download project from git
 
