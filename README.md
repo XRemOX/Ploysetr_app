@@ -4,11 +4,15 @@
 
 ## Build Setup
 
-Install npm and theh run npm install vue, to get the vue.js
-Then download project from git
-After downloading switch to the folder with the project
-Run npm install inside folder to install all dependencies
-Run npm run dev to run the app locally
+#Install npm and theh run npm install vue, to get the vue.js
+
+#Then download project from git
+
+#After downloading switch to the folder with the project
+
+#Run npm install inside folder to install all dependencies
+
+#Run npm run dev to run the app locally
 
 ``` bash
 # install dependencies
