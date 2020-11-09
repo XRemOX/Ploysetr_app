@@ -2,6 +2,8 @@
 
 ## Project setup
 ```
+npm uninstall -g vue-cli
+npm install -g @vue/cli
 npm install
 ```
 
