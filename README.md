@@ -1,28 +1,24 @@
 # ployster
 
-> Ployster on vue
-
-## Build Setup
-
-#Install npm and theh run npm install vue and npm install vue-cli, to get the vue.js
-
-#Then download project from git
-
-#After downloading switch to the folder with the project
-
-#Run npm install inside folder to install all dependencies
-
-#Run npm run dev to run the app locally
-
-``` bash
-# install dependencies
+## Project setup
+```
 npm install
+```
 
-# serve with hot reload at localhost:8080
-npm run dev
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
-# build for production with minification
+### Compiles and minifies for production
+```
 npm run build
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
